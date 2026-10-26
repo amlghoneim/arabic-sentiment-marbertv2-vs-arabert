@@ -1,0 +1,7 @@
+dataset,model,best_epoch
+ArSAS,AraBERT,"[3, 2, 2]"
+ArSAS,MARBERTv2,"[2, 3, 3]"
+Arabic100KReviews,AraBERT,"[2, 3, 3]"
+Arabic100KReviews,MARBERTv2,"[2, 2, 1]"
+SS2030,AraBERT,"[2, 3, 3]"
+SS2030,MARBERTv2,"[3, 2, 3]"
